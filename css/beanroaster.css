@@ -100,3 +100,26 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#loadimage{
+width:"15%";
+}
+#loadiamge1{
+width:"61";
+}
+#loadimage2{
+width:"24";
+align:"center";
+}
+
+#colour{
+width:"80"
+}
+#colour2{
+width:"20"
+align="left"
+}
+
+#Comments{
+align="center"
+}
